@@ -33,7 +33,8 @@
 <br><br>
 <button id="but8">reset</button><span id="tt"></span>
 </span>
-
+<input type="text">add comment </input>
+<input type="submit">
 
   
   </body>
